@@ -1,13 +1,45 @@
-### Hi there 👋
+###  👋 Hi, I’m Suman  
+
+🔹 **HR & Recruitment Professional | Data Analyst (HR/Business Domain)**  
+🔹 **7+ years of experience in US IT Recruitment & Workforce Data Insights**  
+🔹 Skilled in **hiring analytics, business reporting, and building dashboards**  
+
+---
+## 🧑‍💼 About Me  
+With 7 years in US IT Recruitment, I’ve worked with large datasets of candidates, clients, and hiring cycles.  
+During this time, I regularly analyzed **time-to-fill, offer acceptance, recruiter performance, and client hiring trends** to improve decision-making.  
+
+This experience sparked my interest in **data analytics**, leading me to upskill in:  
+- **Excel (Pivot Tables, Dashboards)**  
+- **SQL (Data Extraction & Analysis)**  
+- **Power BI (Data Visualization & KPIs)**  
+- **Python (Pandas, Matplotlib – Learning)**  
+
+My goal is to leverage my **domain expertise in HR** with **data analytics** to deliver **actionable business insights**.  
+---
+## 📂 Featured Projects  
+- **Recruitment Funnel Dashboard (Excel & Power BI)**  
+   → Visualized candidate pipeline, drop-off stages, and offer acceptance trends  
+
+- **Recruiter Productivity Analysis (SQL + Power BI)**  
+   → Tracked performance by recruiter, client submissions, and closure ratios  
+
+- **Attrition & Retention Insights (Excel)**  
+   → Monthly attrition rate, department-level insights  
+
+---
+## 🌱 Currently Learning  
+- Advanced SQL for business queries  
+- Storytelling dashboards in Power BI  
+- HR/Business use cases with Python  
+
+✨ _“I’m not switching careers; I’m scaling my recruitment expertise with analytics.”_ ✨  
+
 <h1 align="center">Hi 👋, I'm Suman Bheemkar</h1>
 <h3 align="center">An ambitious Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="http://clipart-library.com/img/690770.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanbheemkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumanbheemkar" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Exploratory Data Analysis, SQL, Power BI and Deep Learning**
-
-- 💬 Ask me about **Machine Learning, Data Analysis, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
