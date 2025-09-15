@@ -16,16 +16,6 @@ This experience sparked my interest in **data analytics**, leading me to upskill
 - **Python (Pandas, Matplotlib – Learning)**  
 
 My goal is to leverage my **domain expertise in HR** with **data analytics** to deliver **actionable business insights**.  
----
-## 📂 Featured Projects  
-- **Recruitment Funnel Dashboard (Excel & Power BI)**  
-   → Visualized candidate pipeline, drop-off stages, and offer acceptance trends  
-
-- **Recruiter Productivity Analysis (SQL + Power BI)**  
-   → Tracked performance by recruiter, client submissions, and closure ratios  
-
-- **Attrition & Retention Insights (Excel)**  
-   → Monthly attrition rate, department-level insights  
 
 ---
 ## 🌱 Currently Learning  
