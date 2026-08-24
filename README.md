@@ -1,12 +1,8 @@
-###  👋 Hi, I’m Suman  
-
-🔹 **HR & Recruitment Professional | Data Analyst (HR/Business Domain)**  
-🔹 **7+ years of experience in US IT Recruitment & Workforce Data Insights**  
+ 
 🔹 Skilled in **hiring analytics, business reporting, and building dashboards**  
 
 ---
-## 🧑‍💼 About Me  
-With 7 years in US IT Recruitment, I’ve worked with large datasets of candidates, clients, and hiring cycles.  
+I’ve worked with large datasets of candidates, clients, and hiring cycles.  
 During this time, I regularly analyzed **time-to-fill, offer acceptance, recruiter performance, and client hiring trends** to improve decision-making.  
 
 This experience sparked my interest in **data analytics**, leading me to upskill in:  
